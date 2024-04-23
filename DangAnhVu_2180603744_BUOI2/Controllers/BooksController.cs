@@ -67,7 +67,7 @@ namespace DangAnhVu_2180603744_BUOI2.Controllers
                 Price = 80000,
                 Cover = "Content/image/book4.jpg"
             });
-
+            /// con cặc gì ///
             listBooks.Add(new Book()
             {
                 Id = 5,
