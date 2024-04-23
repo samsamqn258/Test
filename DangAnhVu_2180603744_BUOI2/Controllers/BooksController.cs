@@ -67,7 +67,7 @@ namespace DangAnhVu_2180603744_BUOI2.Controllers
                 Price = 80000,
                 Cover = "Content/image/book4.jpg"
             });
-            /// con cặc gì ///
+            /// con cặc gì /// 
             listBooks.Add(new Book()
             {
                 Id = 5,
@@ -78,6 +78,7 @@ namespace DangAnhVu_2180603744_BUOI2.Controllers
                 Cover = "Content/image/book4.jpg"
             });
 
+            // fixx loi ok
         }
         // GET: Book
         public ActionResult ListBooks()
