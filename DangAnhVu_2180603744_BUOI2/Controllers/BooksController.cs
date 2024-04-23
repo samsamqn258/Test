@@ -57,6 +57,16 @@ namespace DangAnhVu_2180603744_BUOI2.Controllers
                 Price = 80000,
                 Cover = "Content/image/book4.jpg"
             });
+            //sửa sadfasadsfaaaaaaaaadfasfasfsadsfafafasfadsfa
+            listBooks.Add(new Book()
+            {
+                Id = 8,
+                Title = "Từ thất bại đến thành công",
+                Author = "Không biết",
+                PublicYear = 2011,
+                Price = 80000,
+                Cover = "Content/image/book4.jpg"
+            });
 
         }
         // GET: Book
