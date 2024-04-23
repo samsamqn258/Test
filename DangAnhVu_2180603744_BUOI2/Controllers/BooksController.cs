@@ -58,6 +58,16 @@ namespace DangAnhVu_2180603744_BUOI2.Controllers
                 Cover = "Content/image/book4.jpg"
             });
 
+            listBooks.Add(new Book()
+            {
+                Id = 5,
+                Title = "Từ thất bại đến thành công",
+                Author = "Không biết",
+                PublicYear = 2011,
+                Price = 80000,
+                Cover = "Content/image/book4.jpg"
+            });
+
         }
         // GET: Book
         public ActionResult ListBooks()
